@@ -3,7 +3,6 @@
 
 ![Header](https://github.com/Vitaly-chek/Vitaly-chek/blob/main/images/1.jpg)
 ----
-___
 
 ## You can see the my hard skils clicking  on the links below:
 
