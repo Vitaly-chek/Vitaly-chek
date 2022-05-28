@@ -18,10 +18,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-4296C7?style=for-the-badge&logo=Facebook&logoColor=144FC7)][facebook]
 [![Gmail](https://img.shields.io/badge/Gmail-4296C7?style=for-the-badge&logo=Gmail&logoColor=FF0202)][gmail]
 
-![](https://komarev.com/ghpvc/?username=Vitaly-chek)
+                    ![в](https://komarev.com/ghpvc/?username=Vitaly-chek)
 
 
-[terminal]:https://github.com/Vitaly-chek/Terminal
+[terminal]: https://github.com/Vitaly-chek/Terminal
 [git]: https://github.com/Vitaly-chek/Git
 [postman]: https://github.com/Vitaly-chek/Postman
 [sql]: https://github.com/Vitaly-chek/SQL
