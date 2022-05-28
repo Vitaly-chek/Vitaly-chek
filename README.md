@@ -19,4 +19,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-4296C7?style=for-the-badge&logo=Telegram&logoColor=00007C)](https://t.me/krivoruchekvitaly)
 [![Instagram](https://img.shields.io/badge/Instagram-4296C7?style=for-the-badge&logo=Instagram)](https://www.instagram.com/vitaly_chek/)
 [![Facebook](https://img.shields.io/badge/Facebook-4296C7?style=for-the-badge&logo=Facebook&logoColor=144FC7)](https://m.facebook.com/krivoruchekvitaly)
-[![Gmail](https://img.shields.io/badge/Gmail-42A1C7?style=for-the-badge&logo=Gmail&logoColor=FF0202)](mailto:krivoruchek1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-4296C7?style=for-the-badge&logo=Gmail&logoColor=FF0202)](mailto:krivoruchek1@gmail.com)
