@@ -2,7 +2,8 @@
 
 
 ![Header](https://github.com/Vitaly-chek/Vitaly-chek/blob/main/images/1.jpg)
-
+----
+___
 
 ## You can see the my hard skils clicking  on the links below:
 
@@ -20,4 +21,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-42A1C7?style=for-the-badge&logo=Instagram)](https://www.instagram.com/vitaly_chek/)
 [![Facebook](https://img.shields.io/badge/Facebook-42A1C7?style=for-the-badge&logo=Facebook&logoColor=144FC7)](https://m.facebook.com/krivoruchekvitaly)
 [![Gmail](https://img.shields.io/badge/Gmail-42A1C7?style=for-the-badge&logo=Gmail&logoColor=FF0202)](mailto:krivoruchek1@gmail.com)
----
