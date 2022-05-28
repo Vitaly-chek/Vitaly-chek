@@ -8,7 +8,7 @@
 [![Git](https://img.shields.io/badge/Git-28A5F2?style=for-the-badge&logo=git)](https://github.com/Vitaly-chek/Git)
 [![Postman](https://img.shields.io/badge/Postman-398CAE?style=for-the-badge&logo=postman)](https://github.com/Vitaly-chek/Postman)
 [![SQL](https://img.shields.io/badge/SQL-42A1C7?style=for-the-badge&logo=postgresql)](https://github.com/Vitaly-chek/SQL)
-[![JMetter](https://img.shields.io/badge/JMeter-38B9C7?style=for-the-badge&logo=ApacheJMeter&logoColor=000000)](https://github.com/Vitaly-chek/JMeter)
+[![JMetter](https://img.shields.io/badge/JMeter-3A9AAB?style=for-the-badge&logo=ApacheJMeter&logoColor=000000)](https://github.com/Vitaly-chek/JMeter)
 
 
 
