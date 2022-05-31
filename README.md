@@ -9,6 +9,7 @@
 [![Postman](https://img.shields.io/badge/Postman-4296C7?style=for-the-badge&logo=postman)][postman]
 [![SQL](https://img.shields.io/badge/SQL-4296C7?style=for-the-badge&logo=postgresql&logoColor=00007C)][sql]
 [![JMetter](https://img.shields.io/badge/JMeter-4296C7?style=for-the-badge&logo=ApacheJMeter&logoColor=000000)][jmetter]
+[![JS](https://img.shields.io/badge/JavaScript-4296C7?style=for-the-badge&logo=javascript)][js]
 
 ## Contacts 📱
 
@@ -18,7 +19,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-4296C7?style=for-the-badge&logo=Facebook&logoColor=144FC7)][facebook]
 [![Gmail](https://img.shields.io/badge/Gmail-4296C7?style=for-the-badge&logo=Gmail&logoColor=FF0202)][gmail]
 
-![в](https://komarev.com/ghpvc/?username=Vitaly-chek)
+![](https://komarev.com/ghpvc/?username=Vitaly-chek)
 
 
 [terminal]: https://github.com/Vitaly-chek/Terminal
@@ -26,6 +27,7 @@
 [postman]: https://github.com/Vitaly-chek/Postman
 [sql]: https://github.com/Vitaly-chek/SQL
 [jmetter]: https://github.com/Vitaly-chek/JMeter
+[js]: https://github.com/Vitaly-chek/JS_Course
 
 
 [linkedin]:https://www.linkedin.com/in/%D0%B2%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9-%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D1%83%D1%87%D0%B5%D0%BA-66685b208/
