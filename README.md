@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/Vitaly-chek/Vitaly-chek/blob/main/images/1.jpg)
 
-## You can see the my hard skils clicking  on the links below:
+## You can see my hard skills by clicking  on the links below:
 
 [![Terminal](https://img.shields.io/badge/Terminal-4296C7?style=for-the-badge&logo=linux&logoColor=000000)][terminal]
 [![Git](https://img.shields.io/badge/Git-4296C7?style=for-the-badge&logo=git)][git]
@@ -10,6 +10,7 @@
 [![SQL](https://img.shields.io/badge/SQL-4296C7?style=for-the-badge&logo=postgresql&logoColor=00007C)][sql]
 [![JMetter](https://img.shields.io/badge/JMeter-4296C7?style=for-the-badge&logo=ApacheJMeter&logoColor=000000)][jmetter]
 [![JS](https://img.shields.io/badge/JavaScript-4296C7?style=for-the-badge&logo=javascript)][js]
+
 
 ## Contacts 📱
 
@@ -28,7 +29,6 @@
 [sql]: https://github.com/Vitaly-chek/SQL
 [jmetter]: https://github.com/Vitaly-chek/JMeter
 [js]: https://github.com/Vitaly-chek/JS_Course
-
 
 [linkedin]:https://www.linkedin.com/in/%D0%B2%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9-%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D1%80%D1%83%D1%87%D0%B5%D0%BA-66685b208/
 [telegram]: https://t.me/krivoruchekvitaly
