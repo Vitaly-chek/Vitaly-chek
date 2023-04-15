@@ -1,4 +1,4 @@
-# Hello 👋 My name is Vitaly, I'm a QA Engineer!
+# Hello 👋 My name is Vitalii, I'm a QA Engineer!
 
 ![Header](https://github.com/Vitaly-chek/Vitaly-chek/blob/main/images/1.jpg)
 
