@@ -1,6 +1,6 @@
 # Hello 👋 My name is Vitalii, I'm a QA Engineer!
 
-(![Header](https://github.com/Vitaly-chek/Vitaly-chek/blob/main/images/2.png))
+![Header](https://github.com/Vitaly-chek/Vitaly-chek/blob/main/images/1.jpg)
 
 ## You can see my hard skills by clicking  on the links below:
 
