@@ -10,7 +10,7 @@
 [![SQL](https://img.shields.io/badge/SQL-4296C7?style=for-the-badge&logo=postgresql&logoColor=00007C)][sql]
 [![JMetter](https://img.shields.io/badge/JMeter-4296C7?style=for-the-badge&logo=ApacheJMeter&logoColor=000000)][jmetter]
 [![JS](https://img.shields.io/badge/JavaScript-4296C7?style=for-the-badge&logo=javascript)][js]
-
+[![Python](https://img.shields.io/badge/Python-4296C7?style=for-the-badge&logo=javascript)][Python]
 
 ## Contacts 📱
 
@@ -29,6 +29,7 @@
 [sql]: https://github.com/Vitaly-chek/SQL
 [jmetter]: https://github.com/Vitaly-chek/JMeter
 [js]: https://github.com/Vitaly-chek/JS_Course
+[Python]: https://github.com/Vitaly-chek/Python
 
 [linkedin]:https://www.linkedin.com/in/krivoruchekvitaly
 [telegram]: https://t.me/krivoruchekvitaly
